@@ -34,6 +34,9 @@ public class AppTabuada {
 //			System.out.println(resultado [contador]);
 //			contador++;
 //		}
+		
+		
+		//TESTE
 //
 	}
 }
