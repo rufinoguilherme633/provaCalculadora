@@ -13,8 +13,15 @@ public class AppTabuada {
 		frame.titulo = "Tabuada";
 		frame.altura = 500;
 		frame.largura = 500;
-		frame.corDeFundoDaTela = Color.BLUE;
+		frame.corDeFundoDaTela = Color.white;
 		frame.criarTela();
+		
+		
+		
+		int[] notas = {4, 9, 6, 7};
+		String[] alunos = {"maria", "ana", "pedro", "joão"};
+		int[] pesos = new int[5];
+		
 
 //		Tabuada tabuada = new Tabuada();
 //		tabuada.multiplicando = 6897;
